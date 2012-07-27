@@ -1,0 +1,30 @@
+		String[] staticLabels = {"is-relative", "is-sibling", "is-neighbor", 
+				"is-compadre", "is-godparent", "is-god-child", 
+				"is-same-profession"	-------->	"expect-commercial-tie"
+				"is-same-gender", "is-different-gender",
+				"is-same-status", "is-above-status", "is-below-status", 
+				"is-same-age", "is-different-age", 
+				};
+				
+		String[] positiveDynamicEndorsements = {"is-friend", "is-reliable", "is-prestigious", "is-similar"};		
+		String[] negativeDynamicEndorsements = {"is-unreliable", "is-unprestigious", "is-dissimilar"};
+				
+;; every endorsed person is known and every known person should have a similarity index
+				
+
+method (is-relative) - endorse for a new household so that 
+they maintain a link
+
+method (is-close-relative): for a new born baby to identify
+- parents
+- siblings
+- spouse
+- offsprings
+- grandparents
+- grand children
+ 
+
+
+-------------
+
+Family of compadres/godparents become knownpersons and vice versa

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Repast:Params xmlns:Repast="http://www.src.uchicago.edu">
+<Repast:ParamBlock runs="10"/>
+</Repast:Params>
